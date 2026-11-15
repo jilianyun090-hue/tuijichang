@@ -16,7 +16,7 @@ export const redirects: RedirectEntry[] = [
   {
     id: 'jilian-yun',
     brand: '极连云',
-    destination: 'https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13',
+    destination: 'https://haozevpn.jlyvipaff.com/#/?code=6aTAi9bW',
     description: '高性价比 IEPL 专线，8元/月60G，全节点1倍率不限速，优惠码 JLY888',
   },
   {
@@ -40,7 +40,7 @@ export const redirects: RedirectEntry[] = [
   {
     id: 'yuntu',
     brand: '云图机场',
-    destination: 'https://super.ytjcok.org/#/register?code=qPHQtI9a',
+    destination: 'https://super.yuntujc.cc/#/register?code=qPHQtI9a',
     description: '金融级专线传输，20元/月150G，原生 IP 无高倍率陷阱，优惠码 yt88',
   },
   {
@@ -82,7 +82,7 @@ export const redirects: RedirectEntry[] = [
   {
     id: 'dengta',
     brand: '灯塔机场',
-    destination: 'https://www.dengta12.com/reg?ref=DlYrVig6',
+    destination: 'https://www.dengta12.com/reg?ref=Fz0wIDwv&utm_source=invite&utm_medium=referral&utm_campaign=web',
     description: '16.6元/月120G，全平台可用，300Mbps 带宽，支持 24H 退款',
   },
   {
@@ -94,13 +94,13 @@ export const redirects: RedirectEntry[] = [
   {
     id: 'yingzi',
     brand: '影子',
-    destination: 'https://www.yingzi01.com/register?code=X7XPN1cS',
+    destination: 'https://www.yingzi03.com/register?code=X7XPN1cS',
     description: '18.8元/月150G，高端 IEPL 跨境专线，极低延迟与极低丢包',
   },
   {
     id: 'bianjie-yun',
     brand: '边界云',
-    destination: 'https://www.lvpn.cc/r/6UQDZT',
+    destination: 'https://www.bianjiecloud.com/r/6UQDZT',
     description: '12.33元/月50G，IEPL 优化线路，最高 1000Mbps 带宽，3天无理由退款',
   },
   {
@@ -166,7 +166,7 @@ export const redirects: RedirectEntry[] = [
   {
     id: 'yunjiexian',
     brand: '云界线',
-    destination: 'https://yiyige163.yunjiexianaff.com/#/?code=oetFP4xi',
+    destination: 'https://yiyige163.yunjiexianaff.com/#/?code=cTclFZc7',
     description: '官网注册入口，套餐、线路与服务状态请以官网当前页面为准',
   },
   {
