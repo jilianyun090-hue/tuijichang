@@ -2,7 +2,7 @@
 title: "快AI 中转站测评：API 模型调用、余额与密钥安全指南"
 description: "快AI 注册和使用前要看什么？本文从 API 兼容、模型选择、余额扣费、密钥权限、调用日志与故障处理整理第三方 AI 中转服务核验方法。"
 pubDate: 2026-10-13
-updatedDate: 2026-10-13
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["快AI", "AI中转站", "API中转", "模型调用", "密钥安全", "AI测评"]
 author: "推机场评测团队"

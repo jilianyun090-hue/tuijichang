@@ -2,7 +2,7 @@
 title: 机场订阅、订阅链接与机场节点三者有什么关系
 description: 从配置生成、客户端导入、节点更新、链接安全和常见故障解释机场订阅、订阅地址与节点的区别及安全使用边界。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: topics
 tags: ["机场订阅", "订阅链接", "订阅地址", "机场节点", "节点推荐"]
 featured: false

@@ -2,7 +2,7 @@
 title: "Claude 机场节点怎么选？连接、地区与会话检查指南"
 description: "面向 Claude 用户的机场节点选择与故障检查方法，覆盖支持地区、出口稳定、DNS、浏览器会话和隐私边界。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["Claude机场", "AI机场", "机场节点", "节点梯子", "原生IP机场"]
 author: "推机场评测团队"

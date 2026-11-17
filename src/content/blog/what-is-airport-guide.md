@@ -2,7 +2,7 @@
 title: "机场是什么？新手理解机场订阅、节点与客户端"
 description: "从零解释机场、梯子、VPN、订阅链接、机场节点和客户端的关系，提供购买、导入、安全使用与故障排查指南。"
 pubDate: 2026-08-13
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "beginner"
 tags: ["机场是什么", "机场订阅", "机场教程", "梯子推荐", "新手教程"]
 featured: false

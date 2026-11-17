@@ -2,7 +2,7 @@
 title: 2026年稳定机场推荐：晚高峰实测不掉速的专线机场精选
 description: 专注稳定性的2026机场推荐，仅收录晚高峰实测速度下降10%以内的IEPL/IPLC专线机场，含云图、极连云、光年梯完整测速数据与稳定性对比。
 pubDate: 2026-08-14
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["稳定机场", "专线机场", "机场推荐", "IEPL专线", "晚高峰测速"]
 featured: false

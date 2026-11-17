@@ -2,7 +2,7 @@
 title: "AI 工具需要怎样的 IP？纯净度、地区与稳定性指南"
 description: "解释 ChatGPT、Claude、Gemini 使用中的 IP 地区、ASN、共享、原生与住宅属性，建立可验证的 AI 节点评估方法。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["AI机场", "IP纯净度", "原生IP机场", "住宅IP机场", "ChatGPT机场"]
 author: "推机场评测团队"

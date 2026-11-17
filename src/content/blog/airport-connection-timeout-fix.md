@@ -2,7 +2,7 @@
 title: "机场无法连接怎么办？节点超时与全红排查教程"
 description: "系统排查机场节点连接超时、测速全红、已连接却打不开网页等故障，提供网络、订阅、客户端和线路检查顺序。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "troubleshoot"
 tags: ["机场无法连接", "节点超时", "机场节点", "Clash节点", "故障排查"]
 author: "推机场评测团队"

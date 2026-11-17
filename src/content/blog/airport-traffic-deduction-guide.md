@@ -2,7 +2,7 @@
 title: 机场流量扣得快怎么办：倍率与重置规则详解
 description: 解释机场上传下载计费、节点倍率、协议开销、后台流量、重置日期与异常泄漏，并提供流量过快排查清单。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: faq
 tags: ["机场流量", "节点倍率", "流量重置", "订阅泄漏", "机场套餐"]
 featured: false

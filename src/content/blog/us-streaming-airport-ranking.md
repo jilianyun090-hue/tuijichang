@@ -2,7 +2,7 @@
 title: 美国流媒体机场推荐：解锁节点、IP地区与持续播放测试
 description: 讲解美国节点的流媒体地区、IP 状态、持续带宽、DNS、账号环境与解锁复测，避免把一次成功当成永久保证。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["美国流媒体机场", "美国节点", "Netflix机场", "机场推荐", "流媒体解锁"]
 featured: false

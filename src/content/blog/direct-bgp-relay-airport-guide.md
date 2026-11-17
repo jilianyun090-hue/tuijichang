@@ -2,7 +2,7 @@
 title: "直连、BGP 中转、专线机场有什么区别？"
 description: "系统对比直连机场、BGP 中转机场与 IEPL/IPLC 专线机场的路径、成本、延迟和适用场景，避免只看线路标签。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "decision"
 tags: ["直连机场", "BGP中转", "专线机场", "IPLC机场", "中转机场"]
 author: "推机场评测团队"

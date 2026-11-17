@@ -2,7 +2,7 @@
 title: "原生 IP、家宽 IP、住宅 IP 机场怎么选？"
 description: "解释原生 IP、家宽 IP、住宅 IP 与数据中心 IP 的区别，帮助流媒体、AI 和跨境用户判断机场出口质量与风险。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "streaming"
 tags: ["原生IP机场", "家宽IP", "住宅IP", "流媒体机场", "机场推荐"]
 author: "推机场评测团队"

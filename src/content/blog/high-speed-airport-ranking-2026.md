@@ -2,7 +2,7 @@
 title: 2026高速机场推荐：节点延迟、抖动与持续速度测试
 description: 从延迟、抖动、丢包、晚高峰吞吐与协议兼容五个维度筛选高速机场，并提供可复现的节点梯子测试流程。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["高速机场", "机场推荐", "梯子推荐", "延迟测试", "节点梯子"]
 featured: false

@@ -2,7 +2,7 @@
 title: "Mac 机场客户端怎么选？Clash 节点订阅与配置指南"
 description: "介绍 macOS 机场客户端选择、Clash 订阅导入、系统代理、TUN 权限、休眠断线和多网络环境排查。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "tools"
 tags: ["Mac机场", "macOS客户端", "Clash节点", "机场订阅", "节点梯子"]
 author: "推机场评测团队"

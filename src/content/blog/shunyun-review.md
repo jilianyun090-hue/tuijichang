@@ -2,7 +2,7 @@
 title: ANYCAST 与 IEPL 有什么区别？以瞬云机场节点为例
 description: 用瞬云机场的接入方式解释ANYCAST与IEPL的区别，分析入口路由、跨境线路、落地节点和测试方法，帮助用户判断哪种机场节点更适合自己。
 pubDate: 2026-08-05
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["ANYCAST", "IEPL", "瞬云机场", "机场节点", "线路技术", "稳定梯子"]
 featured: false

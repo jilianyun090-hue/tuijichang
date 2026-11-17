@@ -2,7 +2,7 @@
 title: 香港、日本、新加坡、美国等地区节点怎么选
 description: 按延迟、路由、出口地区、视频、AI、游戏和办公场景，比较香港、日本、新加坡、美国及其他地区节点的选择方法。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: topics
 tags: ["香港节点", "日本节点", "新加坡节点", "美国节点", "节点推荐"]
 featured: false

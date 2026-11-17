@@ -2,7 +2,7 @@
 title: "2026 瞬云机场评测：套餐、节点、ANYCAST 与购买建议"
 description: "瞬云机场（瞬云）综合评测与购买前核验指南，分析ANYCAST入口、机场节点、套餐倍率、客户端和适用人群，并说明如何避免相似品牌名称混淆。"
 pubDate: 2026-09-22
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["瞬云机场", "瞬云", "机场评测", "ANYCAST", "机场节点", "性价比机场"]
 author: 推机场评测团队

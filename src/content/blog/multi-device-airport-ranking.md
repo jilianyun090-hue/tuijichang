@@ -2,7 +2,7 @@
 title: 多设备机场推荐对比：设备限制、同时在线与家庭使用
 description: 比较家庭多设备机场的同时在线、IP 数、路由器使用、流量共享、订阅安全和公平使用规则，附容量估算方法。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["多设备机场", "家庭机场", "机场推荐", "设备数限制", "流量共享"]
 featured: false

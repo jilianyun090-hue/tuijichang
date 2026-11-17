@@ -2,7 +2,7 @@
 title: "2026 机场常见问题：选购、节点、客户端与安全 FAQ"
 description: "汇总机场选购、线路、节点配置、速度、流媒体、AI工具与隐私安全的常见问题，提供条件化、可核验的排查答案。"
 pubDate: 2026-07-30
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "faq"
 tags: ["机场FAQ", "机场问题", "机场推荐", "机场节点", "新手指南"]
 featured: false

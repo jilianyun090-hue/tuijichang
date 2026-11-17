@@ -2,7 +2,7 @@
 title: 网络延迟、抖动、丢包与速度怎么测：机场节点检查方法
 description: 解释延迟、抖动、丢包、带宽与吞吐的区别，并提供网页、视频、游戏、会议等场景的机场节点测试方法。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: topics
 tags: ["延迟", "抖动", "丢包", "测速", "节点推荐"]
 featured: false

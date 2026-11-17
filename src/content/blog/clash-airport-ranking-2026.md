@@ -2,7 +2,7 @@
 title: 2026 Clash 机场推荐与节点兼容性排行
 description: 以订阅格式、Clash Meta 内核、规则分流、节点协议和更新可靠性为核心，建立可复现的 Clash 机场筛选方法。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["Clash机场", "Clash节点", "机场推荐", "Clash Verge", "节点兼容"]
 featured: false

@@ -2,7 +2,7 @@
 title: 机场节点命名怎么看：地区、倍率、协议与线路标识
 description: 逐项解释机场节点名称中的香港、日本、倍率、IPLC、IEPL、BGP、原生、住宅、SS、VLESS、Trojan 等标识。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: topics
 tags: ["机场节点", "节点命名", "节点倍率", "线路标识", "节点推荐"]
 featured: false

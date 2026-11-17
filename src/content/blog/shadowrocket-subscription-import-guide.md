@@ -2,7 +2,7 @@
 title: "小火箭节点订阅怎么导入？Shadowrocket 更新教程"
 description: "面向 iPhone 与 iPad 的小火箭机场使用指南，讲解订阅导入、节点选择、更新、安全设置和常见故障排查。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "tutorial"
 tags: ["小火箭节点", "小火箭机场", "Shadowrocket", "机场订阅", "iOS教程"]
 author: "推机场评测团队"

@@ -2,7 +2,7 @@
 title: "Gemini 机场节点与地区一致性：连接和账号排查指南"
 description: "介绍 Gemini 机场节点选择、Google 账号地区一致、DNS 与客户端规则检查，帮助区分平台、账号和网络问题。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["Gemini机场", "AI机场", "机场节点", "Google账号", "地区节点"]
 author: "推机场评测团队"

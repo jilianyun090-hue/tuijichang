@@ -2,7 +2,7 @@
 title: 机场官网、备用网址与机场入口如何安全核验
 description: 讲解机场官网失效时如何通过历史公告、订阅面板、证书与多渠道交叉验证备用网址，防范仿冒站和钓鱼入口。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: faq
 tags: ["机场官网", "备用网址", "机场入口", "机场导航", "仿冒网站"]
 featured: false

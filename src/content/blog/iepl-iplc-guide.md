@@ -2,7 +2,7 @@
 title: "IEPL/IPLC 专线是什么？机场线路类型完整科普"
 description: "解释 IEPL、IPLC、BGP 中转与直连机场的路径和成本差异，提供条件化测试方法，避免把线路标签当作稳定保证。"
 pubDate: 2026-08-07
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "beginner"
 tags: ["IEPL专线", "IPLC专线", "机场线路", "专线机场", "机场推荐"]
 featured: false

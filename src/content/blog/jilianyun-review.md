@@ -2,7 +2,7 @@
 title: 极连云评测：IEPL专线8元/月，2026最强性价比机场验证
 description: 极连云深度评测2026，验证8元/月IEPL专线是否货真价实，含30天晚高峰速度测试、Netflix原生解锁、ChatGPT零风控验证，新手选机场必读。
 pubDate: 2026-08-15
-updatedDate: 2026-10-05
+updatedDate: 2026-11-17
 category: airport
 tags: ["极连云", "机场评测", "IEPL专线", "性价比机场", "机场推荐"]
 featured: false

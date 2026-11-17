@@ -2,7 +2,7 @@
 title: "机场节点倍率是什么？1 倍率、2 倍率与流量计算"
 description: "解释机场节点倍率、套餐流量扣除、0.5 倍和高倍率节点的适用场景，并提供购买前核验与实测方法。"
 pubDate: 2026-08-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "beginner"
 tags: ["机场倍率", "节点倍率", "机场推荐", "机场选购", "避坑指南"]
 featured: false

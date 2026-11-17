@@ -2,7 +2,7 @@
 title: "机场连接后部分应用无法联网？系统代理与 TUN 排查"
 description: "浏览器能打开但 Discord、Steam、Telegram 或其他应用无法联网？从系统代理、TUN、规则、DNS 和 UDP 逐层排查。"
 pubDate: 2026-09-26
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "troubleshoot"
 tags: ["故障排查", "无法联网", "TUN模式", "DNS", "分流规则"]
 author: "推机场评测团队"

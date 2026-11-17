@@ -2,7 +2,7 @@
 title: 机场100G够用吗？2026年流量套餐选购指南
 description: 机场100G够用吗？本文提供详细的流量消耗计算器，涵盖YouTube、Netflix、ChatGPT、TikTok各场景用量，帮你精准选择合适的机场套餐，避免购买过多或不够用。
 pubDate: 2026-08-01
-updatedDate: 2026-08-18
+updatedDate: 2026-11-17
 category: beginner
 tags: ["机场流量", "机场套餐", "机场推荐", "性价比机场", "机场选购"]
 featured: false

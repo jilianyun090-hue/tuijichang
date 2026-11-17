@@ -2,7 +2,7 @@
 title: "Android 机场客户端怎么选？订阅导入与节点配置指南"
 description: "讲解 Android 选择机场客户端、匹配订阅格式、导入节点、配置分应用代理及解决断线和耗电问题。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "tools"
 tags: ["Android机场", "机场客户端", "机场订阅", "Clash节点", "节点梯子"]
 author: "推机场评测团队"

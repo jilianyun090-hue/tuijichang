@@ -2,7 +2,7 @@
 title: Clash怎么用？2026年Clash Verge配置机场完整教程
 description: Clash Verge如何配置机场？2026年Clash Verge Rev安装、导入订阅、规则分流、TUN模式全套教程，附iOS Shadowrocket和安卓Clash Meta配置说明。
 pubDate: 2026-08-02
-updatedDate: 2026-08-18
+updatedDate: 2026-11-17
 category: tutorial
 tags: ["Clash教程", "机场配置", "Clash Verge", "科学上网教程", "梯子教程"]
 featured: false

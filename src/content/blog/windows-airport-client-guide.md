@@ -2,7 +2,7 @@
 title: "Windows 机场客户端与 Clash 节点配置完整指南"
 description: "从客户端选择到 Clash 节点导入，讲解 Windows 系统代理、TUN、端口冲突、断网恢复与机场订阅排查。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "tools"
 tags: ["Windows机场", "Clash节点", "Clash机场", "机场客户端", "机场订阅"]
 author: "推机场评测团队"

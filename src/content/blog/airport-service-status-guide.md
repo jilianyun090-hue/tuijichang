@@ -2,7 +2,7 @@
 title: 机场失效、维护或被墙时如何判断服务状态
 description: 从本地网络、机场官网、订阅、节点入口、公告和多网络交叉测试，判断机场失效、维护、被墙或停运。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: faq
 tags: ["机场失效", "机场维护", "机场被墙", "服务状态", "机场入口"]
 featured: false

@@ -2,7 +2,7 @@
 title: 专线机场推荐与 IPLC IEPL 线路排行方法
 description: 解释 IPLC、IEPL 与中转线路的实际选择逻辑，并用晚高峰、冗余、容量、倍率和运营透明度建立专线排行。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["专线机场", "IPLC", "IEPL", "机场推荐", "线路排行"]
 featured: false

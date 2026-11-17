@@ -2,7 +2,7 @@
 title: "AI API 中转站和机场节点有什么区别？"
 description: "对比 AI API 中转站与机场节点在访问方式、计费、密钥、模型、隐私和故障责任上的差异，帮助开发者正确选择。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["AI中转站", "OpenAI机场", "API中转", "AI机场", "节点梯子"]
 author: "推机场评测团队"

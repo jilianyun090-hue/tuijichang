@@ -2,7 +2,7 @@
 title: "ChatGPT 登录循环、验证码反复与会话异常排查"
 description: "逐步排查 ChatGPT 登录后跳回、验证码反复、会话过期和白屏问题，覆盖浏览器 Cookie、时间、DNS 与机场节点。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["ChatGPT登录", "验证码循环", "ChatGPT机场", "OpenAI机场", "会话异常"]
 author: "推机场评测团队"

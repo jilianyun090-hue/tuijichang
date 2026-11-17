@@ -2,7 +2,7 @@
 title: "Clash 机场推荐新手清单：订阅兼容与购买前核对"
 description: "搜索机场推荐 Clash 时，先确认订阅格式、Mihomo 内核、节点协议和设备限制，再用小周期套餐验证导入、规则、更新与售后。这份清单给出可执行的提问和验收方法。"
 pubDate: 2026-10-11
-updatedDate: 2026-10-11
+updatedDate: 2026-11-17
 category: "beginner"
 tags: ["机场推荐 clash", "Clash机场", "Clash节点", "Mihomo", "机场订阅", "新手选购"]
 featured: false

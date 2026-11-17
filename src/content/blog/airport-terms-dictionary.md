@@ -2,7 +2,7 @@
 title: 机场术语词典：节点、订阅、专线与客户端完整解释
 description: 面向新手解释机场、节点、订阅地址、客户端、协议、倍率、直连、中转、IPLC、IEPL 等常见术语及其关系。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: topics
 tags: ["机场术语", "机场导航", "机场订阅", "节点推荐", "专线机场"]
 featured: false

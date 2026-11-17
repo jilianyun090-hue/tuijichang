@@ -2,7 +2,7 @@
 title: "黑喵 AI 中转站测评：模型中转注册与使用核对指南"
 description: "黑喵 AI 中转站适合哪些模型调用场景？本文从注册入口、模型兼容、API 密钥、余额风险、隐私和故障排查角度整理一份购买前核对清单。"
 pubDate: 2026-10-13
-updatedDate: 2026-10-13
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["黑喵", "AI中转站", "AI API", "模型中转", "注册指南", "隐私核对"]
 author: "推机场评测团队"

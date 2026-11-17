@@ -2,7 +2,7 @@
 title: 光年梯评测：7.42元/月IEPL专线，老牌机场性价比天花板
 description: 光年梯深度评测2026，验证年付7.42元/月IEPL专线是否靠谱，含30天晚高峰测速、Netflix解锁、团队运营背景分析，与极连云横向对比。
 pubDate: 2026-08-12
-updatedDate: 2026-10-05
+updatedDate: 2026-11-17
 category: airport
 tags: ["光年梯", "机场评测", "便宜机场", "IEPL专线", "性价比机场"]
 featured: false

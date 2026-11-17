@@ -2,7 +2,7 @@
 title: "ChatGPT、Claude、Gemini 地区节点怎么选？"
 description: "对比多款 AI 工具的地区节点选择原则，帮助用户保持账号、出口、DNS 和设备一致，减少频繁跨区带来的异常。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["ChatGPT机场", "Claude机场", "Gemini机场", "AI机场", "地区节点"]
 author: "推机场评测团队"

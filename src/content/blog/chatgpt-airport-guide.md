@@ -2,7 +2,7 @@
 title: 机场能用ChatGPT吗？2026年ChatGPT机场推荐与使用指南
 description: 机场如何访问ChatGPT？为什么有些节点连ChatGPT会被风控？2026年ChatGPT机场推荐，原生IP零风控解决方案，含GPT-4o实测记录。
 pubDate: 2026-08-09
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: tools
 tags: ["ChatGPT机场", "AI工具", "机场推荐", "ChatGPT解锁", "原生IP"]
 featured: false

@@ -2,7 +2,7 @@
 title: "OpenAI Access Denied 怎么办？节点地区与网络排查指南"
 description: "系统排查 OpenAI Access Denied、地区不可用与网络拒绝访问问题，区分账号、浏览器、DNS、机场节点和平台状态。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["OpenAI机场", "Access Denied", "ChatGPT机场", "AI机场", "节点地区"]
 author: "推机场评测团队"

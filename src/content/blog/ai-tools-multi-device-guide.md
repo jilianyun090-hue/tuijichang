@@ -2,7 +2,7 @@
 title: "多设备使用 AI 工具：机场节点与客户端配置指南"
 description: "介绍电脑、手机、平板多设备使用 ChatGPT、Claude、Gemini 时的机场订阅、地区、规则、设备限制与账号安全。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["AI机场", "多设备机场", "Clash节点", "小火箭节点", "ChatGPT机场"]
 author: "推机场评测团队"

@@ -2,7 +2,7 @@
 title: "AI中转站隐私指南：机场日志、API记录与账号数据边界"
 description: "解释使用 AI 工具时平台、中转站、机场、客户端和应用分别能接触哪些数据，并给出提示词、API Key 与账号保护清单。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["AI隐私", "AI中转站", "机场日志", "API安全", "订阅安全"]
 author: "推机场评测团队"

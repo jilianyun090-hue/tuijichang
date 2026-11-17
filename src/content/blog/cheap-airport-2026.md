@@ -2,7 +2,7 @@
 title: 2026年便宜机场推荐：10元以下稳定专线精选
 description: 2026年最便宜的稳定机场盘点，光年梯7.42元/月、瞬云8.25元/月、极连云8元/月，IEPL专线低价不低质，含实测数据与避坑指南。
 pubDate: 2026-08-17
-updatedDate: 2026-10-05
+updatedDate: 2026-11-17
 category: airport
 tags: ["便宜机场", "性价比机场", "2026便宜机场", "机场推荐", "便宜梯子"]
 featured: false

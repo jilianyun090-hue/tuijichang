@@ -2,7 +2,7 @@
 title: "Clash 配置错误怎么办？订阅导入失败与 YAML 排查"
 description: "排查 Clash 订阅导入失败、配置解析错误、代理组为空、规则引用异常和更新后无法启动等问题。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "troubleshoot"
 tags: ["Clash配置错误", "Clash节点", "Clash机场", "订阅导入失败", "YAML"]
 author: "推机场评测团队"

@@ -2,7 +2,7 @@
 title: "机场和自建 VPS 怎么选？成本、维护与风险对比"
 description: "对比机场订阅与自建 VPS 在成本、线路、IP、维护、安全和设备管理上的差异，帮助用户判断是否值得自建。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "decision"
 tags: ["机场推荐", "VPS", "自建节点", "机场成本", "梯子推荐"]
 author: "推机场评测团队"

@@ -2,7 +2,7 @@
 title: "v2rayN 机场节点配置教程：订阅导入、选择与排查"
 description: "介绍 Windows 使用 v2rayN 导入机场订阅、更新节点、设置系统代理、测试连通性和排查常见故障的方法。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "tools"
 tags: ["v2rayN", "机场节点", "机场订阅", "Windows梯子", "节点梯子"]
 author: "推机场评测团队"

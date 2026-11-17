@@ -2,7 +2,7 @@
 title: "Clash 节点订阅怎么导入？Clash 机场配置完整教程"
 description: "详解 Clash 机场订阅导入、节点选择、系统代理、规则模式、配置更新及常见错误排查，适合 Windows 与 Mac 新手。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "tutorial"
 tags: ["Clash节点", "Clash机场", "机场订阅", "订阅导入", "节点梯子"]
 author: "推机场评测团队"

@@ -2,7 +2,7 @@
 title: 香港节点机场推荐：线路延迟、晚高峰与套餐选择
 description: 分析香港节点的线路、延迟、绕路、晚高峰、倍率和使用场景，提供适用于 Clash 与小火箭的低延迟筛选流程。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["香港节点", "低延迟机场", "机场推荐", "Clash节点", "小火箭节点"]
 featured: false

@@ -2,7 +2,7 @@
 title: 2026 小火箭机场推荐与 Shadowrocket 节点选择
 description: 面向 iPhone 与 iPad 用户，讲清小火箭机场订阅兼容、节点选择、分流、延迟测试、设备限制与常见故障。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: airport
 tags: ["小火箭机场", "小火箭节点", "Shadowrocket", "机场推荐", "iOS梯子"]
 featured: false

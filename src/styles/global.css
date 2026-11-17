@@ -181,7 +181,7 @@
   .border-slate-300 { border-color: rgba(69, 82, 73, 0.25) !important; }
 
   .prose-cn {
-    @apply prose max-w-none prose-headings:scroll-mt-24 prose-a:text-brand-700;
+    @apply prose max-w-none prose-headings:scroll-mt-24;
     color: #4e5751;
     font-size: 1rem;
     line-height: 1.95;
@@ -195,7 +195,22 @@
     @apply mt-12 pt-8 text-2xl;
   }
   .prose-cn h3 { color: var(--ink); @apply mt-8 text-xl; }
-  .prose-cn a { @apply font-medium underline decoration-brand-200 underline-offset-4 hover:decoration-brand-600; }
+  .prose-cn a {
+    color: #006c68;
+    font-weight: 600;
+    text-decoration-line: underline;
+    text-decoration-color: currentColor;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 4px;
+    text-decoration-skip-ink: auto;
+    border-radius: 2px;
+  }
+  .prose-cn a:hover,
+  .prose-cn a:focus-visible {
+    color: #064f4b;
+    background-color: #e0eee7;
+    text-decoration-thickness: 2px;
+  }
   .prose-cn blockquote {
     color: #59645d;
     background: rgba(238, 237, 228, 0.7);

@@ -2,7 +2,7 @@
 title: "机场节点不显示怎么办？订阅更新失败完整排查指南"
 description: "排查机场订阅导入后节点为空、更新失败、只显示公告节点、节点数量不一致等问题，覆盖 Clash 与小火箭。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "troubleshoot"
 tags: ["机场节点", "订阅更新失败", "Clash节点", "小火箭节点", "故障排查"]
 author: "推机场评测团队"

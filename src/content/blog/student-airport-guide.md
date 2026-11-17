@@ -2,7 +2,7 @@
 title: 2026年学生党机场推荐：10元以内稳定梯子精选
 description: 专为学生党精选2026年10元以内性价比机场，光年梯7.42元/月、极连云8元/月、瞬云8.25元/月IEPL专线，校园网可用性测试，避坑指南。
 pubDate: 2026-08-04
-updatedDate: 2026-08-18
+updatedDate: 2026-11-17
 category: airport
 tags: ["学生机场", "便宜机场", "性价比机场", "2026便宜机场", "梯子推荐"]
 featured: false

@@ -2,7 +2,7 @@
 title: 云图机场深度评测：金融级专线是否值得溢价？
 description: 云图机场深度评测2026，含香港/日本/新加坡晚高峰实测速度、Netflix原生解锁验证、ChatGPT稳定性测试，并与极连云、光年梯横向对比，附优惠码yt88享8折。
 pubDate: 2026-08-16
-updatedDate: 2026-10-05
+updatedDate: 2026-11-17
 category: airport
 tags: ["云图机场", "机场评测", "金融级专线", "机场推荐", "稳定机场"]
 featured: false

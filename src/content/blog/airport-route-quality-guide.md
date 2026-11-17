@@ -2,7 +2,7 @@
 title: 直连、中转、BGP、IPLC 与 IEPL 线路质量判断
 description: 从入口、跨境路径、落地、晚高峰、冗余和线路标签解释直连、中转、BGP、IPLC、IEPL 的区别与判断方法。
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: topics
 tags: ["直连机场", "中转机场", "BGP机场", "IPLC", "IEPL"]
 featured: false

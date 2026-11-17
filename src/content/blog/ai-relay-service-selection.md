@@ -2,7 +2,7 @@
 title: "AI 中转服务怎么选？费用、模型与风控核验清单"
 description: "从运营主体、模型来源、API兼容、计费、充值、密钥、日志与故障恢复评估 AI 中转站，避免只看低价宣传。"
 pubDate: 2026-10-03
-updatedDate: 2026-10-03
+updatedDate: 2026-11-17
 category: "ai"
 tags: ["AI中转站", "API中转", "AI工具", "模型接口", "费用核验"]
 author: "推机场评测团队"
